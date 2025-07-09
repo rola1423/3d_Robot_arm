@@ -15,4 +15,4 @@ This robotic arm includes:
 ![Robotic Arm Preview](3D_robot_arm.png)
 
 # Tinkercad Simulation Link
-[Open the 3D Robotic Arm Project](https://www.tinkercad.com/things/3gha2LRzIkv-3drobotarm)
+[Open the 3D Robotic Arm Project](https://www.tinkercad.com/things/3gha2LRzIkv-3drobotarm?sharecode=HwvmVXxZc39K6yQomYVElIa-ST2PWzBfWpYsmcYkk_I)
